@@ -1,0 +1,17 @@
+[33mcommit 42fbe3df47858f13110322ceb5dc9cc8f04cdd6a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: ALPERENT <alperen.tuncer@horoz.com.tr>
+Date:   Wed Aug 27 21:26:06 2025 +0300
+
+    Add ProductRepository and ReservationRepository interfaces for stock service
+
+[33mcommit 5a73cf7bfb73daf81f2907f81d91d260ce9d22ea[m
+Author: ALPERENT <alperen.tuncer@horoz.com.tr>
+Date:   Fri Aug 22 09:18:21 2025 +0300
+
+    Implement initial domain models for stock service including Product, ReservationItem, ReservationStatus, and StockReservation
+
+[33mcommit 29ccdc9e2e8dd35b705e9082a3e2639e91319f87[m
+Author: ALPERENT <alperen.tuncer@horoz.com.tr>
+Date:   Wed Aug 20 21:40:06 2025 +0300
+
+    Initialize stock service project with Maven and Spring Boot setup
