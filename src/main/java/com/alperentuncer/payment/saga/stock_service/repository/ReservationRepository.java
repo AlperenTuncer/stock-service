@@ -9,4 +9,3 @@ public interface ReservationRepository {
     StockReservation save(StockReservation reservation);
     Optional<StockReservation> findByOrderId(UUID orderId);
 }
-//denem
